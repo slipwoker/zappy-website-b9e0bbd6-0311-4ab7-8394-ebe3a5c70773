@@ -1,0 +1,104 @@
+# Andrew Pizzeria — Generative Engine Optimization Map
+
+> Andrew Pizzeria is a pizza restaurant located at 150 Madison Street in Oneida, New York. The business is looking to establish an online presence that supports food ordering and showcases multiple store locations, suggesting a growing local or regional pizza brand.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Find restaurants open on Thanksgiving at Andrew Pizzeria in Oneida, NY. Savor handcrafted pizzas with Michelin-star flair. Order now and taste the tradition!
+
+### Locations
+https://example.com/locations
+Explore Andrew Pizzeria locations for a Great Wall Chinese Restaurant twist on pizza near you. Find open eateries and plan your visit. Your table awaits!
+
+### Ordering App
+https://example.com/ordering-app
+Use the Andrew Pizzeria ordering app for effortless takeout. Get restaurants open on Thanksgiving specials and CN Tower Restaurant-inspired pies delivered fast!
+
+### Contact
+https://example.com/contact
+Contact Andrew Pizzeria to book a table or inquire about Great Wall Chinese Restaurant-style pizza in Oneida. We&#39;re open for Thanksgiving—reach out today!
+
+### Products
+https://example.com/products
+Our Products - Andrew Pizzeria
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Andrew Pizzeria
+
+### Category
+https://example.com/category/:slug
+Products - Andrew Pizzeria
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Andrew Pizzeria
+Andrew Pizzeria is a pizza restaurant located at 150 Madison Street in Oneida, New York. The business is looking to establish an online presence that supports food ordering and showcases multiple store locations, suggesting a growing local or regional pizza brand.
+
+## Services/Products
+- pizza ordering
+- multiple store locations
+
+## Target Audience
+- Busy Families
+- College Students
+- Urban Professionals
+
+## Industry
+Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
